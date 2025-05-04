@@ -1508,6 +1508,8 @@ ethtool ethx
 
 参考 https://blog.csdn.net/daaikuaichuan/article/details/88649113
 
+![](https://img2018.cnblogs.com/blog/1358881/201910/1358881-20191024165601134-342443140.png)
+
 #### 87、实现阻塞队列
 
 条件变量+互斥锁+队列，可参考Muduo网络库中的实现。
